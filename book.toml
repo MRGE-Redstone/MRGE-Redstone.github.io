@@ -1,0 +1,7 @@
+[book]
+title = "MCpypack"
+authors = ["Morten Barthel"]
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/MRGE-Redstone/MRGE-Redstone.github.io"
