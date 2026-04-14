@@ -1,6 +1,7 @@
 # Installation
 
-> ⚠️ **Warning** This guide only covers Linux Systems.
+> [!WARNING]
+> This guide only covers Linux Systems.
 
 ## Python Version
 
