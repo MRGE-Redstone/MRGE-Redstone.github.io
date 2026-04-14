@@ -1,6 +1,6 @@
 # Introduction
 
-[MCpypack](https://github.com/MRGE-Redstone/pypack) is a Python library to make
+[MCpypack](https://github.com/MRGE-Redstone/mcpypack) is a Python library to make
 the creation of Minecraft datapack easier.
 
 In this book you will learn how to install MCpypack and how to use it properly.
