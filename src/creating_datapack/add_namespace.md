@@ -47,7 +47,7 @@ To do that you have to create a new namespace named ```minecraft```.
 ## Whole Code
 
 ```py
-from MCpypack import *
+from MCpypack import Datapack, Namespace
 
 my_pack: Datapack = Datapack(
     name="My Datapack",
