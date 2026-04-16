@@ -18,3 +18,4 @@
     - [Crafting Shapeless](creating_datapack/recipe/crafting_shapeless.md)
     - [Crafting Shaped](creating_datapack/recipe/crafting_shaped.md)
     - [Crafting Transmute](creating_datapack/recipe/crafting_transmute.md)
+    - [Crafting Decorated Pot](creating_datapack/recipe/crafting_decorated_pot.md)

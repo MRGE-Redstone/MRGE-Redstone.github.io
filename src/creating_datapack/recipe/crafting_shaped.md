@@ -129,7 +129,6 @@ from MCpypack import Datapack, Namespace, components
 from MCpypack.recipe import CraftingShaped
 from MCpypack.utils import ItemStack
 from MCpypack.item.final import Item, Enchantment
-from MCpypack import components
 
 my_recipes: Datapack = Datapack(
     name="My Recipes",

@@ -1,6 +1,6 @@
 # Crafting Transmute
 
-If you want to preserve all components of an ingredient you have to use the [CraftingTransmute](https://minecraft.wiki/w/Recipe_(Java_Edition)#crafting_transmute) recipe type.
+If you want to preserve all components of an ingredient you have to use the [Crafting Transmute](https://minecraft.wiki/w/Recipe_(Java_Edition)#crafting_transmute) recipe type.
 
 ## Importing
 
