@@ -24,7 +24,7 @@ grass: Namespace = Namespace(
 
 ## Importing
 
-Now we can at a ```CraftingShapeless``` recipe.  
+Now we can add a ```CraftingShapeless``` recipe.  
 We import it from ```MCpypack.recipe```.
 
 ```python
@@ -48,7 +48,7 @@ The ```CraftingShapeless``` class takes the following required arguments.
 
 You can also parse two optional arguments.
 
-- ```group``` -> ```Group```: String identifier for grouping recipes. Default is ```None```.
+- ```group``` -> ```Group | None```: String identifier for grouping recipes. Default is ```None```.
 - ```category``` -> ```CategoryLike```: Recipe book category. Default is ```Category.MISC```.
 
 It will then look like this.

@@ -16,3 +16,4 @@
 - [Adding Namespaces](creating_datapack/add_namespace.md)
 - [Adding Recipes](creating_datapack/recipe/recipe.md)
     - [Crafting Shapeless](creating_datapack/recipe/crafting_shapeless.md)
+    - [Crafting Shaped](creating_datapack/recipe/crafting_shaped.md)
