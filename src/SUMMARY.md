@@ -20,3 +20,4 @@
     - [Crafting Transmute](creating_datapack/recipe/crafting_transmute.md)
     - [Crafting Decorated Pot](creating_datapack/recipe/crafting_decorated_pot.md)
     - [Campfire Cooking](creating_datapack/recipe/campfire_cooking.md)
+    - [Stonecutting](creating_datapack/recipe/stonecutting.md)
